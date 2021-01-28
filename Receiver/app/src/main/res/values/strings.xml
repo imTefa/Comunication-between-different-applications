@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Receiver</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="server_notification_channel_id">server_channel</string>
+    <string name="server_notification_channel_name">Server channel</string>
+    <string name="server_notification_channel_description">Server notification channel description</string>
+
+    <string name="server_notification_title">Receiver App</string>
+    <string name="server_notification_description">Receiver App listening for updates</string>
+
+    <string name="message_new_user">New User received: %1$s</string>
+    <string name="btn_accept">Accept</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>

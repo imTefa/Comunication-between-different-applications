@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiddleMan</string>
+
+    <!-- set action manually to receiver filter in manifest-->
+    <string name="action_send_user">com.example.middleman.SEND_USER_ACTION</string>
+
+
+    <string name="action_received_user">com.example.emitter.RECEIVED_USER_ACTION</string>
+    <string name="emitter_app_pkg">com.example.emitter</string>
+    <string name="emitter_app_receiver_name">com.example.emitter.ConfirmationReceiver</string>
+
+</resources>

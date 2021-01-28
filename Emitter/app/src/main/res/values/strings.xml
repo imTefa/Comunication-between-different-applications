@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Emitter</string>
+
+    <string name="base_url">https://jsonplaceholder.typicode.com</string>
+
+    <string name="action_send_user">com.example.middleman.SEND_USER_ACTION</string>
+    <string name="middle_app_pkg">com.example.middleman</string>
+    <string name="middle_app_receiver_name">com.example.middleman.UserReceiver</string>
+
+    <string name="action_received_user">com.example.emitter.RECEIVED_USER_ACTION</string>
+
+    <string name="btn_send">Send</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+
+    <string name="message_send_user">Send %1$s to MiddleMan application</string>
+    <string name="message_received_user_success">ReceiverApp received user: %1$s successfully</string>
+    <string name="message_received_user_failure">ReceiverApp failed to receive user: %1$s</string>
+</resources>
